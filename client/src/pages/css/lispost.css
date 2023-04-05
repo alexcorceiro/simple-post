@@ -1,0 +1,19 @@
+.box-principal{
+ padding: 10px;
+ max-width: 40vw;
+ max-height: 50vh;
+ margin: 12px 15px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ background-color: rgb(197, 191, 191);
+}
+
+.box-image{
+    max-width: 23.5vw;
+    max-height: 10vh;
+    width: auto;
+    padding: 8px;
+    overflow: auto;
+}
